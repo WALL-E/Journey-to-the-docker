@@ -8,6 +8,3 @@ docker游记，记录一些docker的实验过程(武功招式)，这里基本上
 ```
 入门阶段，最重要的就是勤动手。
 ```
-
-
-![image](https://github.com/WALL-E/image/blob/master/images/pay_to_zz_weixin.jpg)
