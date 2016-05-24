@@ -9,5 +9,5 @@ docker游记，记录一些docker的实验过程(武功招式)，这里基本上
 入门阶段，最重要的就是勤动手。
 ```
 
-### 微信扫描二维码，为作者的技术分享表示感谢。
+微信扫描二维码，为作者的技术分享表示感谢。
 ![image](https://github.com/WALL-E/image/blob/master/images/pay_to_zz_weixin.jpg)
